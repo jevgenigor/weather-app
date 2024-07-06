@@ -69,7 +69,7 @@ const Weather = () => {
         <input 
           ref={inputRef} 
           type="text" 
-          placeholder="Search" 
+          placeholder="Search City" 
           onKeyDown={handleKeyDown}
         />
         <img
